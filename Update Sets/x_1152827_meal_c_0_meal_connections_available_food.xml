@@ -1,0 +1,1929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-01-17 21:48:51">
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-322</days_until_expired>
+<expiration_date>2023-03-01</expiration_date>
+<food_item_1/>
+<food_items>Spaghetti Noodles</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>20</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>5f0171a2474f791095cbdffe046d4307</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-76</days_until_expired>
+<expiration_date>2023-11-02</expiration_date>
+<food_item_1/>
+<food_items>Hotdogs</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>170131a2474f791095cbdffe046d43ff</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>sumi.truong</sys_updated_by>
+<sys_updated_on>2024-01-08 22:14:03</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-76</days_until_expired>
+<expiration_date>2023-11-02</expiration_date>
+<food_item_1/>
+<food_items>Croutons</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>1</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>9b0171a2474f791095cbdffe046d4329</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-48</days_until_expired>
+<expiration_date>2023-11-30</expiration_date>
+<food_item_1/>
+<food_items>Slice Ham Lunch Meat</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>12</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>5f0131a2474f791095cbdffe046d43ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-48</days_until_expired>
+<expiration_date>2023-11-30</expiration_date>
+<food_item_1/>
+<food_items>Slice Turkey Lunch Meat</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>19</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>970171a2474f791095cbdffe046d4300</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-48</days_until_expired>
+<expiration_date>2023-11-30</expiration_date>
+<food_item_1/>
+<food_items>SB White Bread</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>20</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>530131a2474f791095cbdffe046d43ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-48</days_until_expired>
+<expiration_date>2023-11-30</expiration_date>
+<food_item_1/>
+<food_items>Sour Cream</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>15</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>d70171a2474f791095cbdffe046d4314</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-47</days_until_expired>
+<expiration_date>2023-12-01</expiration_date>
+<food_item_1/>
+<food_items>Yogurt</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>19</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>d30171a2474f791095cbdffe046d430a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-46</days_until_expired>
+<expiration_date>2023-12-02</expiration_date>
+<food_item_1/>
+<food_items>Shrimp</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>14</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>530171a2474f791095cbdffe046d4321</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-43</days_until_expired>
+<expiration_date>2023-12-05</expiration_date>
+<food_item_1/>
+<food_items>Ribs</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>8</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>5f0131a2474f791095cbdffe046d43e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-41</days_until_expired>
+<expiration_date>2023-12-07</expiration_date>
+<food_item_1/>
+<food_items>Soy Milk</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>6</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>d30131a2474f791095cbdffe046d43eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-39</days_until_expired>
+<expiration_date>2023-12-09</expiration_date>
+<food_item_1/>
+<food_items>Activia Strawberry &amp; Banana</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>20</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>1f0131a2474f791095cbdffe046d43eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-38</days_until_expired>
+<expiration_date>2023-12-10</expiration_date>
+<food_item_1/>
+<food_items>Watermelon</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>6</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>170131a2474f791095cbdffe046d43f7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Fruits</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-38</days_until_expired>
+<expiration_date>2023-12-10</expiration_date>
+<food_item_1/>
+<food_items>Eggs</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>0f0131a2474f791095cbdffe046d43e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-38</days_until_expired>
+<expiration_date>2023-12-10</expiration_date>
+<food_item_1/>
+<food_items>Cream Cheese</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>8</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>130171a2474f791095cbdffe046d4315</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-38</days_until_expired>
+<expiration_date>2023-12-10</expiration_date>
+<food_item_1/>
+<food_items>Turkey Bacon</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>30</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>df0131a2474f791095cbdffe046d43e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-37</days_until_expired>
+<expiration_date>2023-12-11</expiration_date>
+<food_item_1/>
+<food_items>Blueberries</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>5</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>5f0131a2474f791095cbdffe046d43ef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Fruits</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-36</days_until_expired>
+<expiration_date>2023-12-12</expiration_date>
+<food_item_1/>
+<food_items>2% Milk</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>12</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>9b0131a2474f791095cbdffe046d43ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-35</days_until_expired>
+<expiration_date>2023-12-13</expiration_date>
+<food_item_1/>
+<food_items>Lemons</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>8</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>db0131a2474f791095cbdffe046d43ee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Fruits</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-34</days_until_expired>
+<expiration_date>2023-12-14</expiration_date>
+<food_item_1/>
+<food_items>Strawberries</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>170131a2474f791095cbdffe046d43ef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Fruits</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-33</days_until_expired>
+<expiration_date>2023-12-15</expiration_date>
+<food_item_1/>
+<food_items>Pita Bread</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>8</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>170171a2474f791095cbdffe046d4307</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-33</days_until_expired>
+<expiration_date>2023-12-15</expiration_date>
+<food_item_1/>
+<food_items>Whole Milk</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>13</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>570171a2474f791095cbdffe046d4313</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-33</days_until_expired>
+<expiration_date>2023-12-15</expiration_date>
+<food_item_1/>
+<food_items>Apples</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>12</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>930131a2474f791095cbdffe046d43ee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Fruits</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-33</days_until_expired>
+<expiration_date>2023-12-15</expiration_date>
+<food_item_1/>
+<food_items>Beef Stew Meat</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>20</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>df0171a2474f791095cbdffe046d4300</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-33</days_until_expired>
+<expiration_date>2023-12-15</expiration_date>
+<food_item_1/>
+<food_items>Pork Chops</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>18</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>5b0131a2474f791095cbdffe046d43fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-32</days_until_expired>
+<expiration_date>2023-12-16</expiration_date>
+<food_item_1/>
+<food_items>Raspberries</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>9</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>970131a2474f791095cbdffe046d43f0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Fruits</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-31</days_until_expired>
+<expiration_date>2023-12-17</expiration_date>
+<food_item_1/>
+<food_items>Corn</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>15</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>db0131a2474f791095cbdffe046d43f6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-31</days_until_expired>
+<expiration_date>2023-12-17</expiration_date>
+<food_item_1/>
+<food_items>Grapes</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>df0131a2474f791095cbdffe046d43f0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Fruits</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-30</days_until_expired>
+<expiration_date>2023-12-18</expiration_date>
+<food_item_1/>
+<food_items>Onions</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>20</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>1b0131a2474f791095cbdffe046d43f1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-30</days_until_expired>
+<expiration_date>2023-12-18</expiration_date>
+<food_item_1/>
+<food_items>Salmon</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>df0171a2474f791095cbdffe046d431f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-30</days_until_expired>
+<expiration_date>2023-12-18</expiration_date>
+<food_item_1/>
+<food_items>Slice Wheat Bread</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>8</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>130171a2474f791095cbdffe046d4305</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-30</days_until_expired>
+<expiration_date>2023-12-18</expiration_date>
+<food_item_1/>
+<food_items>Oranges</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>14</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>570131a2474f791095cbdffe046d43ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Fruits</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-29</days_until_expired>
+<expiration_date>2023-12-19</expiration_date>
+<food_item_1/>
+<food_items>Ginger</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>6</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>5b0131a2474f791095cbdffe046d43f5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-29</days_until_expired>
+<expiration_date>2023-12-19</expiration_date>
+<food_item_1/>
+<food_items>Lettuce</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>930131a2474f791095cbdffe046d43f6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-29</days_until_expired>
+<expiration_date>2023-12-19</expiration_date>
+<food_item_1/>
+<food_items>Tomatoes</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>15</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>530131a2474f791095cbdffe046d43f2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-28</days_until_expired>
+<expiration_date>2023-12-20</expiration_date>
+<food_item_1/>
+<food_items>Green Beans</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>8</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>5f0131a2474f791095cbdffe046d43f7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-1</days_until_expired>
+<expiration_date>2024-01-16</expiration_date>
+<food_item_1/>
+<food_items>celery</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>100</quantity>
+<sys_created_by>lpakgerner</sys_created_by>
+<sys_created_on>2024-01-10 14:31:42</sys_created_on>
+<sys_id>3d6af4d34767351095cbdffe046d43a8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>lpakgerner</sys_updated_by>
+<sys_updated_on>2024-01-10 14:31:42</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-28</days_until_expired>
+<expiration_date>2023-12-20</expiration_date>
+<food_item_1/>
+<food_items>Rye Bread</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>15</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>9f0171a2474f791095cbdffe046d4303</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-28</days_until_expired>
+<expiration_date>2023-12-20</expiration_date>
+<food_item_1/>
+<food_items>Spinach</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>18</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>9b0131a2474f791095cbdffe046d43f2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-28</days_until_expired>
+<expiration_date>2023-12-20</expiration_date>
+<food_item_1/>
+<food_items>Bell peppers</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>20</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>d30131a2474f791095cbdffe046d43f3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-28</days_until_expired>
+<expiration_date>2023-12-20</expiration_date>
+<food_item_1/>
+<food_items>Pears</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>570171a2474f791095cbdffe046d431b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Fruits</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-1</days_until_expired>
+<expiration_date>2024-01-16</expiration_date>
+<food_item_1/>
+<food_items>celery</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>100</quantity>
+<sys_created_by>lpakgerner</sys_created_by>
+<sys_created_on>2024-01-10 14:31:42</sys_created_on>
+<sys_id>b96af4d34767351095cbdffe046d43b4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>lpakgerner</sys_updated_by>
+<sys_updated_on>2024-01-10 14:31:42</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-28</days_until_expired>
+<expiration_date>2023-12-20</expiration_date>
+<food_item_1/>
+<food_items>Whole Duck</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>6</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>1f0171a2474f791095cbdffe046d4302</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-1</days_until_expired>
+<expiration_date>2024-01-16</expiration_date>
+<food_item_1/>
+<food_items>celery</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>100</quantity>
+<sys_created_by>lpakgerner</sys_created_by>
+<sys_created_on>2024-01-10 14:53:57</sys_created_on>
+<sys_id>e77f305b4767351095cbdffe046d4335</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>lpakgerner</sys_updated_by>
+<sys_updated_on>2024-01-10 14:53:57</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>1</days_until_expired>
+<expiration_date>2024-01-18</expiration_date>
+<food_item_1/>
+<food_items>itemxyz</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>2_high</priority>
+<quantity>10</quantity>
+<sys_created_by>lpakgerner</sys_created_by>
+<sys_created_on>2024-01-11 23:41:12</sys_created_on>
+<sys_id>7cc1c8b347ef751095cbdffe046d4333</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>lpakgerner</sys_updated_by>
+<sys_updated_on>2024-01-11 23:41:12</sys_updated_on>
+<type>Canned/Jarred/Boxed Goods</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>0</days_until_expired>
+<expiration_date>2024-01-17</expiration_date>
+<food_item_1/>
+<food_items>Raisins</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>1_critical</priority>
+<quantity>13</quantity>
+<sys_created_by>sumi.truong</sys_created_by>
+<sys_created_on>2024-01-10 15:27:04</sys_created_on>
+<sys_id>b417cd1347a7351095cbdffe046d439c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sumi.truong</sys_updated_by>
+<sys_updated_on>2024-01-10 15:27:04</sys_updated_on>
+<type>Canned/Jarred/Boxed Goods</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-1</days_until_expired>
+<expiration_date>2024-01-16</expiration_date>
+<food_item_1/>
+<food_items>celery</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>100</quantity>
+<sys_created_by>sumi.truong</sys_created_by>
+<sys_created_on>2024-01-10 00:31:31</sys_created_on>
+<sys_id>a61abdc347abf11095cbdffe046d4365</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sumi.truong</sys_updated_by>
+<sys_updated_on>2024-01-10 00:31:31</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>1</days_until_expired>
+<expiration_date>2024-01-18</expiration_date>
+<food_item_1/>
+<food_items>Swiss Cheese</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>2_high</priority>
+<quantity>10</quantity>
+<sys_created_by>sumi.truong</sys_created_by>
+<sys_created_on>2024-01-11 20:37:41</sys_created_on>
+<sys_id>a8c7d72f472f751095cbdffe046d431e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sumi.truong</sys_updated_by>
+<sys_updated_on>2024-01-11 20:37:41</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-27</days_until_expired>
+<expiration_date>2023-12-21</expiration_date>
+<food_item_1/>
+<food_items>French Bread</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>d70171a2474f791095cbdffe046d4304</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-27</days_until_expired>
+<expiration_date>2023-12-21</expiration_date>
+<food_item_1/>
+<food_items>Garlic</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>8</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>130131a2474f791095cbdffe046d43f5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-27</days_until_expired>
+<expiration_date>2023-12-21</expiration_date>
+<food_item_1/>
+<food_items>Celery</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>5</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>970131a2474f791095cbdffe046d43f8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>1</days_until_expired>
+<expiration_date>2024-01-18</expiration_date>
+<food_item_1/>
+<food_items>almond milk</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>2_high</priority>
+<quantity>7</quantity>
+<sys_created_by>sumi.truong</sys_created_by>
+<sys_created_on>2024-01-10 14:39:57</sys_created_on>
+<sys_id>ea4c7c174767351095cbdffe046d43a7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sumi.truong</sys_updated_by>
+<sys_updated_on>2024-01-10 14:39:57</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-26</days_until_expired>
+<expiration_date>2023-12-22</expiration_date>
+<food_item_1/>
+<food_items>Potatoes</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>16</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>9b0171a2474f791095cbdffe046d4321</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-25</days_until_expired>
+<expiration_date>2023-12-23</expiration_date>
+<food_item_1/>
+<food_items>Tilapia</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>15</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>1b0171a2474f791095cbdffe046d4320</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-23</days_until_expired>
+<expiration_date>2023-12-25</expiration_date>
+<food_item_1/>
+<food_items>Steak</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>5</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>530131a2474f791095cbdffe046d43fa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-23</days_until_expired>
+<expiration_date>2023-12-25</expiration_date>
+<food_item_1/>
+<food_items>Sausage</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>db0131a2474f791095cbdffe046d43fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-20</days_until_expired>
+<expiration_date>2023-12-28</expiration_date>
+<food_item_1/>
+<food_items>Bacon</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>16</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>930131a2474f791095cbdffe046d43fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-20</days_until_expired>
+<expiration_date>2023-12-28</expiration_date>
+<food_item_1/>
+<food_items>Chicken Wings</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>8</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>9f0131a2474f791095cbdffe046d43fb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-19</days_until_expired>
+<expiration_date>2023-12-29</expiration_date>
+<food_item_1/>
+<food_items>Peaches</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>12</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>1f0171a2474f791095cbdffe046d431a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Fruits</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-19</days_until_expired>
+<expiration_date>2023-12-29</expiration_date>
+<food_item_1/>
+<food_items>Chicken Thighs</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>9</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>d70131a2474f791095cbdffe046d43fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-18</days_until_expired>
+<expiration_date>2023-12-30</expiration_date>
+<food_item_1/>
+<food_items>Butter</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>20</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>9f0171a2474f791095cbdffe046d4313</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>8</days_until_expired>
+<expiration_date>2024-01-25</expiration_date>
+<food_item_1/>
+<food_items>Celery</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>2</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2024-01-08 22:07:23</sys_created_on>
+<sys_id>918f8cf24767b11095cbdffe046d43db</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>sumi.truong</sys_updated_by>
+<sys_updated_on>2024-01-08 22:13:41</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-17</days_until_expired>
+<expiration_date>2023-12-31</expiration_date>
+<food_item_1/>
+<food_items>Tomato Soup</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>50</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>970131a2474f791095cbdffe046d43e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Canned/Jarred/Boxed Goods</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-17</days_until_expired>
+<expiration_date>2023-12-31</expiration_date>
+<food_item_1/>
+<food_items>Broccoli</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>14</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>1b0131a2474f791095cbdffe046d43f9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-16</days_until_expired>
+<expiration_date>2024-01-01</expiration_date>
+<food_item_1/>
+<food_items>Swiss Cheese</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>16</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>9b0171a2474f791095cbdffe046d4311</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-16</days_until_expired>
+<expiration_date>2024-01-01</expiration_date>
+<food_item_1/>
+<food_items>Cheddar Cheese</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>5</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>530171a2474f791095cbdffe046d4311</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-16</days_until_expired>
+<expiration_date>2024-01-01</expiration_date>
+<food_item_1/>
+<food_items>Cabbage</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>12</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>df0131a2474f791095cbdffe046d43f8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-16</days_until_expired>
+<expiration_date>2024-01-01</expiration_date>
+<food_item_1/>
+<food_items>Canned Green Beans</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>15</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>170171a2474f791095cbdffe046d431e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Non-perishables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-15</days_until_expired>
+<expiration_date>2024-01-02</expiration_date>
+<food_item_1/>
+<food_items>Mayo</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>6</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>1f0171a2474f791095cbdffe046d4322</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-14</days_until_expired>
+<expiration_date>2024-01-03</expiration_date>
+<food_item_1/>
+<food_items>Coffee</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>530171a2474f791095cbdffe046d4319</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Non-perishables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-14</days_until_expired>
+<expiration_date>2024-01-03</expiration_date>
+<food_item_1/>
+<food_items>Crackers</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>7</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>d30171a2474f791095cbdffe046d431a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-13</days_until_expired>
+<expiration_date>2024-01-04</expiration_date>
+<food_item_1/>
+<food_items>Ground Beef</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>130131a2474f791095cbdffe046d43fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-12</days_until_expired>
+<expiration_date>2024-01-05</expiration_date>
+<food_item_1/>
+<food_items>Penne</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>5</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:37</sys_created_on>
+<sys_id>1b0131a2474f791095cbdffe046d43e9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:37</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-12</days_until_expired>
+<expiration_date>2024-01-05</expiration_date>
+<food_item_1/>
+<food_items>Grits</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>13</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>970171a2474f791095cbdffe046d4327</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Non-perishables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-2</days_until_expired>
+<expiration_date>2024-01-15</expiration_date>
+<food_item_1/>
+<food_items>Pepper Jack Cheese</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>13</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>d30171a2474f791095cbdffe046d4312</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>-2</days_until_expired>
+<expiration_date>2024-01-15</expiration_date>
+<food_item_1/>
+<food_items>Liver</food_items>
+<is_expired>Expired</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>expired</priority>
+<quantity>5</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>570171a2474f791095cbdffe046d4303</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>13</days_until_expired>
+<expiration_date>2024-01-30</expiration_date>
+<food_item_1/>
+<food_items>Olive Oil</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>1b0171a2474f791095cbdffe046d4310</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Oils</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>15</days_until_expired>
+<expiration_date>2024-02-01</expiration_date>
+<food_item_1/>
+<food_items>Jelly</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>12</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>1b0171a2474f791095cbdffe046d4318</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Canned/Jarred/Boxed Goods</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>15</days_until_expired>
+<expiration_date>2024-02-01</expiration_date>
+<food_item_1/>
+<food_items>Oatmeal</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>15</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>5f0171a2474f791095cbdffe046d4326</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Non-perishables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>15</days_until_expired>
+<expiration_date>2024-02-01</expiration_date>
+<food_item_1/>
+<food_items>Pudding</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>12</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>1f0171a2474f791095cbdffe046d430a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>19</days_until_expired>
+<expiration_date>2024-02-05</expiration_date>
+<food_item_1/>
+<food_items>American Cheese</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>14</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>1f0171a2474f791095cbdffe046d4312</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Dairy &amp; Eggs</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>25</days_until_expired>
+<expiration_date>2024-02-11</expiration_date>
+<food_item_1/>
+<food_items>BBQ Sauce</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>9</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>db0171a2474f791095cbdffe046d4325</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Sauces</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>27</days_until_expired>
+<expiration_date>2024-02-13</expiration_date>
+<food_item_1/>
+<food_items>Nori Sheets</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>df0171a2474f791095cbdffe046d4327</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>31</days_until_expired>
+<expiration_date>2024-02-17</expiration_date>
+<food_item_1/>
+<food_items>Coconut Oil</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>9</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>5b0171a2474f791095cbdffe046d4315</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Oils</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>44</days_until_expired>
+<expiration_date>2024-03-01</expiration_date>
+<food_item_1/>
+<food_items>Pinto Beans</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>6</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>9f0171a2474f791095cbdffe046d430b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>44</days_until_expired>
+<expiration_date>2024-03-01</expiration_date>
+<food_item_1/>
+<food_items>Black Eye Peas</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>12</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>570171a2474f791095cbdffe046d430b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Meat &amp; Beans</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>48</days_until_expired>
+<expiration_date>2024-03-05</expiration_date>
+<food_item_1/>
+<food_items>Ketchup</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>5</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>570171a2474f791095cbdffe046d4323</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Sauces</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>63</days_until_expired>
+<expiration_date>2024-03-20</expiration_date>
+<food_item_1/>
+<food_items>Peanut Oil</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>970171a2474f791095cbdffe046d4317</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Oils</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>75</days_until_expired>
+<expiration_date>2024-04-01</expiration_date>
+<food_item_1/>
+<food_items>Canned Tuna</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>15</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>9f0171a2474f791095cbdffe046d431b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Canned/Jarred/Boxed Goods</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>75</days_until_expired>
+<expiration_date>2024-04-01</expiration_date>
+<food_item_1/>
+<food_items>Alfredo Sauce</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>4</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>130171a2474f791095cbdffe046d430d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Sauces</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>85</days_until_expired>
+<expiration_date>2024-04-11</expiration_date>
+<food_item_1/>
+<food_items>Cilantro</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>3</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>530171a2474f791095cbdffe046d4329</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Vegetables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>92</days_until_expired>
+<expiration_date>2024-04-18</expiration_date>
+<food_item_1/>
+<food_items>Mustard</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>5</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>930171a2474f791095cbdffe046d4325</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Sauces</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>105</days_until_expired>
+<expiration_date>2024-05-01</expiration_date>
+<food_item_1/>
+<food_items>Spaghetti Sauce</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>9</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>d70171a2474f791095cbdffe046d430c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Sauces</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>134</days_until_expired>
+<expiration_date>2024-05-30</expiration_date>
+<food_item_1/>
+<food_items>Chicken Noodle Soup</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>15</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>170171a2474f791095cbdffe046d4326</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Canned/Jarred/Boxed Goods</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>136</days_until_expired>
+<expiration_date>2024-06-01</expiration_date>
+<food_item_1/>
+<food_items>Jasmine Rice</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>9</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>930171a2474f791095cbdffe046d4306</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>136</days_until_expired>
+<expiration_date>2024-06-01</expiration_date>
+<food_item_1/>
+<food_items>White Long Grain Rice</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>12</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>db0171a2474f791095cbdffe046d4306</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>136</days_until_expired>
+<expiration_date>2024-06-01</expiration_date>
+<food_item_1/>
+<food_items>Brown Rice</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>7</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>5b0171a2474f791095cbdffe046d4305</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>145</days_until_expired>
+<expiration_date>2024-06-10</expiration_date>
+<food_item_1/>
+<food_items>Canned Chicken</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>16</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>d70171a2474f791095cbdffe046d431c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Non-perishables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>166</days_until_expired>
+<expiration_date>2024-07-01</expiration_date>
+<food_item_1/>
+<food_items>Elbow Noodles</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>18</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>9b0171a2474f791095cbdffe046d4309</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>166</days_until_expired>
+<expiration_date>2024-07-01</expiration_date>
+<food_item_1/>
+<food_items>Peanut Butter</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>15</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>df0171a2474f791095cbdffe046d4317</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Canned/Jarred/Boxed Goods</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>343</days_until_expired>
+<expiration_date>2024-12-25</expiration_date>
+<food_item_1/>
+<food_items>Ramen</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>20</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>d30171a2474f791095cbdffe046d4322</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Bread, Rice, Noodles &amp; Pasta</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>350</days_until_expired>
+<expiration_date>2025-01-01</expiration_date>
+<food_item_1/>
+<food_items>Flour</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>7</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>5f0171a2474f791095cbdffe046d431e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Non-perishables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>413</days_until_expired>
+<expiration_date>2025-03-05</expiration_date>
+<food_item_1/>
+<food_items>Sriracha</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>5</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>1b0171a2474f791095cbdffe046d4328</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Canned/Jarred/Boxed Goods</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>470</days_until_expired>
+<expiration_date>2025-05-01</expiration_date>
+<food_item_1/>
+<food_items>Sugar</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>9</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>970171a2474f791095cbdffe046d431f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Non-perishables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>715</days_until_expired>
+<expiration_date>2026-01-01</expiration_date>
+<food_item_1/>
+<food_items>Canola Oil</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>930171a2474f791095cbdffe046d430e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Oils</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>715</days_until_expired>
+<expiration_date>2026-01-01</expiration_date>
+<food_item_1/>
+<food_items>Vegetable Oil</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>10</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>db0171a2474f791095cbdffe046d430e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Oils</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+<x_1152827_meal_c_0_meal_connections_available_food action="INSERT_OR_UPDATE">
+<days_until_expired>936</days_until_expired>
+<expiration_date>2026-08-10</expiration_date>
+<food_item_1/>
+<food_items>Honey</food_items>
+<is_expired>Good</is_expired>
+<name display_value=""/>
+<pick_up_date/>
+<priority>4_low</priority>
+<quantity>8</quantity>
+<sys_created_by>sbaccam</sys_created_by>
+<sys_created_on>2023-12-14 14:03:38</sys_created_on>
+<sys_id>9b0171a2474f791095cbdffe046d4319</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sbaccam</sys_updated_by>
+<sys_updated_on>2023-12-14 14:03:38</sys_updated_on>
+<type>Non-perishables</type>
+</x_1152827_meal_c_0_meal_connections_available_food>
+</unload>
