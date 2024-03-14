@@ -1,0 +1,15 @@
+function onCellEdit(sysIDs, table, oldValues, newValue, callback) {
+    var saveAndClose = true;
+
+    if (newValue == 6) { //Resolved
+        alert("you cannot change the state to 'Resolved' from a list");
+        saveAndClose = false;
+    }
+
+    if (newValue == 7) { //Closed
+        alert("you cannot change the state to 'Closed' from a list");
+        saveAndClose = false;
+    }
+
+    callback(saveAndClose);
+}

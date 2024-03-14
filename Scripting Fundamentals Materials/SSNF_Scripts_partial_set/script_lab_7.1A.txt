@@ -1,0 +1,41 @@
+function hasRoleExactly(userSysID, roleString) {
+    try {
+
+        var roleGr = new GlideRecord("sys_user_role");
+        if (roleGr.get('name', roleString)) {
+
+            var role = roleGr.getValue('sys_id');
+
+            var gr = new GlideRecord("sys_user_has_role");
+            gr.addQuery("user", userSysID);
+            gr.addQuery("role", role);
+            gr.query();
+            if (gr.next()) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+
+    } catch (error) {
+        gs.error("Error in Script Include hasRoleExactly: " + error);
+    }
+}
+
+---------------------
+
+(function executeRule(current, previous /*null when async*/ ) {
+    try {
+
+        var admin = hasRoleExactly(gs.getUserID(), 'admin');
+        var itil = hasRoleExactly(gs.getUserID(), 'itil');
+
+        var debug = 'User Has Role Admin? ' + admin + ' | User Has Role itil? ' + itil;
+
+        gs.info("DEBUG: " + debug);
+
+    } catch (error) {
+        gs.error("Error in Business Rule Lab 8.1A Script Include Logging: " + error);
+    }
+
+})(current, previous);

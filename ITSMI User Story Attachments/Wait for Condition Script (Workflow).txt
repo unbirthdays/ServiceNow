@@ -1,0 +1,5 @@
+answer = false;
+var crsh = new ChangeRequestStateHandler(current);
+if (crsh.canMoveTo(ChangeRequestStateHandler.REVIEW)) {
+	answer = true;
+}

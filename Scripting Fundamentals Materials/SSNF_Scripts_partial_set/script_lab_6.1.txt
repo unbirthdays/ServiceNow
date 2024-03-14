@@ -1,0 +1,11 @@
+(function executeRule(current, previous /*null when async*/ ) {
+
+    var sapIncs = new GlideRecord("");
+    sapIncs.addQuery("name", "value");
+    sapIncs.query();
+
+    while (sapIncs.next()) {
+       //
+    }
+
+})(current, previous);

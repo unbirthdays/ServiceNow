@@ -1,0 +1,10 @@
+/*
+**Access Flow/Action data using the fd_data object. Script must return a value.
+**Available options display upon pressing "." after fd_data
+**example: var shortDesc = fd_data.trigger.current.short_description;
+**return shortDesc;
+*/
+
+var deviceType = fd_data.trigger.request_item.variables.haptic_device_type.getDisplayValue();
+
+return "Pull " + deviceType + " from Stock or Order from Vendor if required. If the item has to be ordered, make sure to check the Backordered flag and specify the Estimated Delivery date. The user has requested the item be delivered by " + fd_data.trigger.request_item.variables.date_requested;

@@ -1,0 +1,33 @@
+var LocationsByRole = Class.create();
+LocationsByRole.prototype = {
+    initialize: function() {
+        //retrieve the logged-in user's 'User [sys_user]' record
+        this.loggedInUser = new GlideRecord('sys_user');
+        this.loggedInUser.get(gs.getUserID());
+    },
+
+    forCMDB: function() {
+        var refQual = "";
+
+        if (gs.hasRole('admin')) {
+            //Admins may assign CIs to All locations
+            refQual += "^EQ";
+        } //close if 1
+
+        if (gs.hasRole('asset_mgr_local')) {
+            //Users with this role may assign CIs to local locations
+            refQual += "parent=" + this.loggedInUser.location.parent + "^EQ";
+        } //close if 2
+
+        if (gs.hasRole('asset_mgr_corporate')) {
+            //Users with this role may assign CIs to corporate locations
+            refQual += "company=" + this.loggedInUser.location.company + "^EQ";
+        } //close if 3
+
+        return refQual;
+
+    }, //close function
+
+
+    type: 'LocationsByRole'
+};

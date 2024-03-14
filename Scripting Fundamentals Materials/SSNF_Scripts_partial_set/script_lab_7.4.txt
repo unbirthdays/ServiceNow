@@ -1,0 +1,45 @@
+var AssignmentGroupUtils = Class.create();
+AssignmentGroupUtils.prototype = Object.extendsObject(AbstractAjaxProcessor, {
+    countGroupMembers: function() {
+
+        var grpName = "";
+        var message = "There are no members in this Assignment Group";
+        var groupID = this.getParameter('sysparm_group_id');
+
+        var grpMems = new GlideRecord('sys_user_grmember');
+        grpMems.addQuery('group.sys_id', groupID);
+        grpMems.query();
+
+        if (grpMems.next()) {
+            grpName = grpMems.getDisplayValue('group');
+        } //close if
+
+        if (grpName != "") {
+            message = "There are " + grpMems.getRowCount() + " members in the " + grpName + " group";
+        } //close if
+
+        return message;
+
+    }, //close function
+
+    type: 'AssignmentGroupUtils'
+});
+
+//Client Script below
+function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    var membersGA = new GlideAjax('AssignmentGroupUtils');
+    membersGA.addParam('sysparm_name', 'countGroupMembers');
+    membersGA.addParam('sysparm_group_id', g_form.getValue('assignment_group'));
+    membersGA.getXML(membersParse);
+
+    function membersParse(response) {
+        var myObj = response.responseXML.documentElement.getAttribute('answer');
+        alert(myObj);
+
+    } //close function
+	
+	}

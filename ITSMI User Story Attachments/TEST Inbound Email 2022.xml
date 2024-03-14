@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2022-07-08 15:39:33">
+<sys_email action="INSERT_OR_UPDATE">
+<blind_copied/>
+<body>&lt;html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"&gt;
+&lt;head&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8"&gt;
+&lt;meta name="Generator" content="Microsoft Word 15 (filtered medium)"&gt;
+&lt;style&gt;&lt;!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--&gt;&lt;/style&gt;
+&lt;/head&gt;
+&lt;body lang="EN-US" link="#0563C1" vlink="#954F72"&gt;
+&lt;div class="WordSection1"&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;b&gt;&lt;span style="font-size:10.0pt;font-family:Helvetica;color:black"&gt;Did You Know?&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size:13.5pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px"&gt;
+&lt;span style="font-size:10.0pt;font-family:Helvetica;color:black"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:13.5pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px"&gt;
+&lt;span style="font-size:10.0pt;font-family:Helvetica;color:black"&gt;Values in an inbound email can set field values in a task record. Any&amp;nbsp;&lt;i&gt;name:value&lt;/i&gt;&amp;nbsp;pair in an inbound email body gets parsed into a&amp;nbsp;&lt;i&gt;variable/value&lt;/i&gt;&amp;nbsp;pair in the inbound email script.
+ The name:value pair must be on its own line. Note that most email clients limit the number of characters allowed per line and may truncate excessively long name:value pairs.&lt;/span&gt;&lt;span style="font-size:13.5pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px"&gt;
+&lt;span style="font-size:10.0pt;font-family:Helvetica;color:black"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="font-size:13.5pt;color:black"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white;font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-decoration-color: initial;word-spacing:0px"&gt;
+&lt;span style="font-size:10.0pt;font-family:Helvetica;color:black"&gt;To populate a reference field use&amp;nbsp;setDisplayValue()instead. See&amp;nbsp;&lt;a href="http://wiki.servicenow.com/index.php?title=Inbound_Email_Actions#Redirecting_Emails_to_Different_Assignment_Groups"&gt;&lt;span style="color:#954F72"&gt;Redirecting
+ Emails&lt;/span&gt;&lt;/a&gt;&amp;nbsp;for an example of using&amp;nbsp;setDisplayValue()&amp;nbsp;in an inbound email action.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="background:white"&gt;&lt;span style="font-size:13.5pt;color:black"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span style="color:black;background:white"&gt;Template:ADAccountLocked&lt;/span&gt;&lt;span style="font-size:11.0pt"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;</body>
+<body_text>Did You Know?
+
+Values in an inbound email can set field values in a task record. Any name:value pair in an inbound email body gets parsed into a variable/value pair in the inbound email script. The name:value pair must be on its own line. Note that most email clients limit the number of characters allowed per line and may truncate excessively long name:value pairs.
+
+To populate a reference field use setDisplayValue()instead. See Redirecting Emails&lt;http://wiki.servicenow.com/index.php?title=Inbound_Email_Actions#Redirecting_Emails_to_Different_Assignment_Groups&gt; for an example of using setDisplayValue() in an inbound email action.
+
+Template:ADAccountLocked</body_text>
+<checkpoint/>
+<content_type>multipart/alternative;
+	boundary="_000_0BB30C2FC1A6445B9E7330C5410970C1servicenowcom_"</content_type>
+<copied/>
+<deleted>false</deleted>
+<direct>empdhardy1@service-now.com</direct>
+<error_string/>
+<headers>Return-Path:&lt;Davida.Hughes@servicenow.com&gt;
+Delivered-To:&lt;empdhardy1@empdhardy1.service-now.com&gt;
+Received:from mda01.sjc0.service-now.com
+	by mda01.sjc0.service-now.com (Dovecot) with LMTP id QFWlGwbrBFz8KgAA8it3rQ
+	for &lt;empdhardy1@empdhardy1.service-now.com&gt;; Mon, 03 Dec 2018 00:37:15 -0800
+Received:from mx14.service-now.com (unknown [10.249.1.151])
+	by mda01.sjc0.service-now.com (Postfix) with ESMTPS id 1AB9BA60B2
+	for &lt;empdhardy1@empdhardy1.service-now.com&gt;; Mon,  3 Dec 2018 00:37:15 -0800 (PST)
+Received:from localhost (localhost [127.0.0.1])
+	by mx14.service-now.com (Postfix) with ESMTP id 6E66E254015
+	for &lt;empdhardy1@empdhardy1.service-now.com&gt;; Mon,  3 Dec 2018 00:37:14 -0800 (PST)
+X-ServiceNow-Spam-Flag:NO
+X-ServiceNow-Spam-Score:-4.717
+X-ServiceNow-Spam-Level:
+X-ServiceNow-Spam-Status:No, score=-4.717 tagged_above=-999 required=6.2
+	tests=[BAYES_00=-1.9, DKIMWL_WL_HIGH=-1.717, DKIM_SIGNED=0.1,
+	DKIM_VALID=-1.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	SPF_PASS=-0.001] autolearn=ham autolearn_force=no
+Authentication-Results:mta04.iad0.service-now.com (amavisd-new);
+	dkim=pass (2048-bit key) header.d=servicenow.com
+Received:from mx14.service-now.com ([10.252.4.26])
+	by localhost (mta04.iad0.service-now.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id RRL0_--upx-m
+	for &lt;empdhardy1@empdhardy1.service-now.com&gt;;
+	Mon,  3 Dec 2018 00:37:13 -0800 (PST)
+Received:from mx0a-0017dd01.pphosted.com (mx0a-0017dd01.pphosted.com [67.231.149.3])
+	by mx14.service-now.com (Postfix) with ESMTPS id CE67F254019
+	for &lt;empdhardy1@service-now.com&gt;; Mon,  3 Dec 2018 00:37:12 -0800 (PST)
+Received:from pps.filterd (m0041261.ppops.net [127.0.0.1])
+	by mx0a-0017dd01.pphosted.com (8.16.0.27/8.16.0.27) with SMTP id wB38Ymsf002826
+	for &lt;empdhardy1@service-now.com&gt;; Mon, 3 Dec 2018 00:37:11 -0800
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed; d=servicenow.com; h=from : to :
+ subject : date : message-id : content-type : mime-version; s=SEP-2018;
+ bh=LqikUW6Qcu/1ZKWVMbiSNHplQQEf9p1KIOyuRKDkaMU=;
+ b=Jwwf+s1FqOGWcntILhY8KmQZmGDpRKm9EvnG+aSE+CXZ/2xRBeB74fcb7qeOMjM21wN0
+ /5xx/+8f+7Vo1FCGMSAlaDFcdWHfFy7AuEVbCyHmOeOeSX8us0IWfgYpYaDa4Qh0/1I9
+ s3QmUxwttq6q6eeRLWCMvzTEse6fK2tUc1swj0GJSL/eMY05w5vafKg61NPjFUKg9j+/
+ G/uVbc3gGyWpGQLlj+8HM0bK/I5awuqFpRz8PduO9SZ6fkhmQalbNLLZeBQdhDMlEven
+ 3v4ypA+W/y/0TuFyQQtWxe7GGcqas5iPAh2irPz1bE0mLlABBpoSArlUSn8JJHB1wXfv rg== 
+Authentication-Results:Servicenow.com;
+	spf=pass smtp.mailfrom=Davida.Hughes@servicenow.com
+Received:from nam01-by2-obe.outbound.protection.outlook.com (mail-by2nam01lp2050.outbound.protection.outlook.com [104.47.34.50])
+	by mx0a-0017dd01.pphosted.com with ESMTP id 2p3qene566-1
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for &lt;empdhardy1@service-now.com&gt;; Mon, 03 Dec 2018 00:37:11 -0800
+Received:from DM5PR0801MB3830.namprd08.prod.outlook.com (10.167.111.28) by
+ DM5PR0801MB3830.namprd08.prod.outlook.com (10.167.111.28) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.1382.22; Mon, 3 Dec 2018 08:37:09 +0000
+Received:from DM5PR0801MB3830.namprd08.prod.outlook.com
+ ([fe80::d542:56a0:591e:ebf9]) by DM5PR0801MB3830.namprd08.prod.outlook.com
+ ([fe80::d542:56a0:591e:ebf9%3]) with mapi id 15.20.1382.020; Mon, 3 Dec 2018
+ 08:37:09 +0000
+From:Davida Hardy &lt;Davida.Hughes@servicenow.com&gt;
+To:"empdhardy1@service-now.com" &lt;empdhardy1@service-now.com&gt;
+Subject:TEST Inbound Email
+Thread-Topic:TEST Inbound Email
+Thread-Index:AQHUiuNhc/DmcK4uRk++g2C7Gua2eg==
+Date:Mon, 3 Dec 2021 08:37:09 +0000
+Message-ID:&lt;0BB30C2F-C1A6-445B-9E73-30C5410970C1@servicenow.com&gt;
+Accept-Language:en-US
+Content-Language:en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+user-agent:Microsoft-MacOutlook/10.10.2.180910
+x-originating-ip:[73.164.117.247]
+x-ms-publictraffictype:Email
+x-microsoft-exchange-diagnostics:1;DM5PR0801MB3830;20:u12kIs+R8CYH82CAWLimZBX9UlI36McvZio3j0eNMe1a259xgkJb/MzsTDm3tezo/VF+SN4xHu2bRqbmKRVbiUL8GVI2M0F8YlE+tbU/yRezW0OsPR9tbeIUT7iTPDux2TiCPnf/RYV/YZgkrrOXUk6HO1BzffZPDTr+onyClIc=
+x-ms-exchange-antispam-srfa-diagnostics:SOS;
+x-ms-office365-filtering-correlation-id:b6fee740-07d0-4ca6-f39e-08d658fa83d3
+x-ms-office365-filtering-ht:Tenant
+x-microsoft-antispam:BCL:0;PCL:0;RULEID:(2390098)(7020095)(4652040)(8989299)(5600074)(711020)(4618075)(4534185)(4627221)(201703031133081)(201702281549075)(8990200)(2017052603328)(7193020);SRVR:DM5PR0801MB3830;
+x-ms-traffictypediagnostic:DM5PR0801MB3830:
+x-microsoft-antispam-prvs:&lt;DM5PR0801MB38301FA95C54F5B0F45EB0498BAE0@DM5PR0801MB3830.namprd08.prod.outlook.com&gt;
+x-ms-exchange-senderadcheck:1
+x-exchange-antispam-report-cfa-test:BCL:0;PCL:0;RULEID:(8211001083)(6040522)(2401047)(8121501046)(5005006)(93006095)(93001095)(3002001)(10201501046)(3231455)(999002)(944501493)(52105112)(6055026)(148016)(149066)(150057)(6041310)(20161123562045)(20161123558120)(20161123560045)(201703131423095)(201702281528075)(20161123555045)(201703061421075)(201703061406153)(20161123564045)(201708071742011)(7699051)(76991095);SRVR:DM5PR0801MB3830;BCL:0;PCL:0;RULEID:;SRVR:DM5PR0801MB3830;
+x-forefront-prvs:08756AC3C8
+x-forefront-antispam-report:SFV:NSPM;SFS:(10019020)(396003)(346002)(376002)(136003)(366004)(39860400002)(189003)(199004)(105586002)(478600001)(106356001)(14444005)(97736004)(16799955002)(2501003)(66066001)(3480700005)(68736007)(256004)(14454004)(83716004)(3846002)(6116002)(99286004)(2906002)(72206003)(71200400001)(71190400001)(2351001)(82746002)(81156014)(8676002)(8936002)(6916009)(347745004)(86362001)(81166006)(53936002)(6512007)(236005)(33656002)(186003)(606006)(54896002)(6306002)(26005)(102836004)(316002)(15188155005)(5640700003)(58126008)(6486002)(7066003)(486006)(7116003)(5660300001)(7736002)(25786009)(6436002)(6506007)(476003)(2616005)(36756003)(100950200001)(19623215001);DIR:OUT;SFP:1102;SCL:1;SRVR:DM5PR0801MB3830;H:DM5PR0801MB3830.namprd08.prod.outlook.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;MX:1;A:1;
+received-spf:None (protection.outlook.com: servicenow.com does not designate
+ permitted sender hosts)
+x-microsoft-antispam-message-info:QV1993H0Yh1bVDFJErctHFsmc81npYqoeF/LC1fVP+GR0A42ks0k6yQAamI24YhgD4qCiWtLPxt24rtSKc18BF2Qu65tMUvOrdv4t+Smn2bJqpWh96+Q4mnojOTa90njw0kdGC7g5WhoSTB5y0pF9WHjO2MC1ZppITt0eC2ZLD3aYXfmukmm8ie1h+slcXQHx/6deJ3iNdqk8yjDDdw4v7DIEcYYuO+G2I4aMYlinriRpgwzXu3AiuqCALPRNXqrREM3+KryDQsEurk3t+raSYPZ2JuVYaHx6hqg2rbcwVk2YFpZhKmOOX3/r0L60KJpmHO+/Gt86ZWC4J/nlJGseJ6NEvCvvkWnKd48QIOLrcU=
+spamdiagnosticoutput:1:99
+spamdiagnosticmetadata:NSPM
+Content-Type:multipart/alternative;
+	boundary="_000_0BB30C2FC1A6445B9E7330C5410970C1servicenowcom_"
+MIME-Version:1.0
+X-OriginatorOrg:servicenow.com
+X-MS-Exchange-CrossTenant-Network-Message-Id:b6fee740-07d0-4ca6-f39e-08d658fa83d3
+X-MS-Exchange-CrossTenant-originalarrivaltime:03 Dec 2018 08:37:09.4871
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader:Hosted
+X-MS-Exchange-CrossTenant-id:8bcff170-9979-491e-8683-d8ced0850bad
+X-MS-Exchange-Transport-CrossTenantHeadersStamped:DM5PR0801MB3830
+X-Proofpoint-SPF-Result:pass
+X-Proofpoint-SPF-Record:v=spf1 ip4:70.34.48.20 ip4:192.35.250.0/26 ip4:70.34.48.38
+ ip4:204.92.21.125 ip4:204.93.64.116 ip4:204.93.64.117 ip4:205.201.128.0/20
+ ip4:198.2.128.0/18 ip4:148.105.8.0/21 ip4:162.247.216.0/22
+ ip4:192.40.173.140 ip4:192.40.173.141 include:_spfinc1.servicenow.com ~all
+X-Proofpoint-Virus-Version:vendor=fsecure engine=2.50.10434:,, definitions=2018-12-03_04:,,
+ signatures=0
+X-Proofpoint-Spam-Reason:safe
+X-ServiceNow-Source:EmailInbound
+X-ServiceNow-SysEmail-Version:2
+MultipartContentTypes:text/plain; charset="utf-8";text/html; charset="utf-8";
+</headers>
+<importance/>
+<instance>3ef8440b49f550107f44892d4a1ef289</instance>
+<mailbox display_value="Received">received</mailbox>
+<message_id>&lt;0BB30C2F-C1A6-445B-9E73-30C5410970C1@servicenow.com&gt;</message_id>
+<notification_type>SMTP</notification_type>
+<receive_type>new</receive_type>
+<recipients/>
+<reply_to/>
+<state>processed</state>
+<status/>
+<subject>TEST Inbound Email</subject>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2022-07-08 15:31:58</sys_created_on>
+<sys_id>04e51497db86e300a9e931d0ef961938</sys_id>
+<sys_mod_count>16</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-08 15:31:58</sys_updated_on>
+<target_table>incident</target_table>
+<type>received</type>
+<uid>000000035b64de6b</uid>
+<user>6816f79cc0a8016401c5a33be04be441</user>
+<user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+<weight>0</weight>
+</sys_email>
+</unload>
