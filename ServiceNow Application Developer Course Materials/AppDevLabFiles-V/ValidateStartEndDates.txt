@@ -1,0 +1,11 @@
+(function executeRule(current, previous /*null when async*/) {
+
+	if (current.end_date < current.start_date) {
+		gs.addErrorMessage('End date must be later than start date!');
+		current.end_date='';
+		current.setAbortAction(true);
+		// This rejects the submission of the record if you set the end date before the start date
+		// Food for thought: why was script used here rather than a scriptless business rule?
+	}
+
+})(current, previous);

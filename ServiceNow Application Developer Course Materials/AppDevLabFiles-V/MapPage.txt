@@ -1,0 +1,41 @@
+// Let's go get all the active Loaner Requests where the requestor has a _city and country_ in their user record
+var gr = new GlideRecord('x_cdltd_loaner_req_loaner_request');
+gr.addEncodedQuery("active=true^requested_for.cityISNOTEMPTY^requested_for.countryISNOTEMPTY");
+gr.orderBy('number');
+gr.query();
+
+// Now, loop through these results...
+while (gr.next()) {
+
+    // ...but, within THESE results, let's get the LABEL of the country field (via the sys_choice table), since our REST provider prefers that.
+    var countrygr = new GlideRecord('sys_choice');
+    countrygr.addQuery('name', 'sys_user');
+    countrygr.addQuery('element', 'country');
+    countrygr.addQuery('language', 'en');
+    countrygr.addQuery('value', gr.requested_for.country);
+    countrygr.query();
+
+    if (countrygr.next()) {
+        // --- You'll paste Previewed Script below, and modify it per lab instructions --- 
+        // --- Add copied REST Message Script BELOW this line ----------------------------
+       
+
+
+        // --- Add copied REST Message Script ABOVE this line ---------------------------- 
+    }
+
+    // Extract latitude and longitude values from REST Message response in JSON format
+    var responseJSON = JSON.parse(responseBody);
+    var myLat = responseJSON.data[0].latitude;
+    var myLong = responseJSON.data[0].longitude;
+
+    // Plot each 'Requested for' location on a Google map
+    var item = map.addItem(gr);
+    item.latitude = String(myLat);
+    item.longitude = String(myLong);
+    item.dialog_title = gr.getDisplayValue();
+    item.icon = "https://maps.google.com/mapfiles/ms/micons/yellow.png";
+    item.icon_width = "32";
+    item.icon_height = "32";
+
+}

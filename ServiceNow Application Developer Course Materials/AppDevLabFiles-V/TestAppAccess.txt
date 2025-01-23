@@ -1,0 +1,21 @@
+/*  
+Run this script from Global scope both BEFORE _and_ AFTER 
+checking "Can update" from the Loaner Request Table's Application Access section.
+*/
+
+// This method _should_ address occasional instance "bad behavior" during this demo.
+gs.invalidateCache();
+
+// Look up open LNR records
+var loanerRecs = new GlideRecord('x_cdltd_loaner_req_loaner_request');
+loanerRecs.addQuery('state','!=',3); // not Closed Complete
+loanerRecs.setLimit(3); // let's not get carried away...
+loanerRecs.query();
+
+// We're in Global scope — in other words, "out of scope." Can we close the LNR records?
+while(loanerRecs.next()){
+	loanerRecs.setValue('state',3); // mark Closed Complete
+	loanerRecs.update(); // save the records
+}
+
+// No dice closing them out? Try checking the "Can update" box on the Loaner Table, then try again!
