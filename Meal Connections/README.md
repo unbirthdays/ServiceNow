@@ -8,7 +8,7 @@
 This is a ServiceNow application created during my time as a RiseUp/NextGen extern with my team members Linder, Champellia, and Eve. We worked together to create Meal Connections, an application to help connect the food insecure to those in need. This is our capstone that went above and beyond the rubric and utilizes all of the ServiceNow fundamentals for the CSA (which has been earned as of now).
 <br><br><br>
 Watch the video of how this works:<br>
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=Zu1wVZ6OX3Y"></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zu1wVZ6OX3Y?si=i0qjtG6QWQZPlo_h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 <br><br><hr>
 <h2><strong>ServiceNow tech stack and tools:</strong></h2>
 <ul>
