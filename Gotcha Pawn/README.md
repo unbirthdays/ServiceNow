@@ -3,7 +3,7 @@
 2. Tech Stack<br>
 3. Future Considerations<br>
 <br><hr><br>
-<img src="/Gotcha Pawn/GOTCHA PAWN.png"></img>
+<img src="/Gotcha Pawn/Gacha Pictures/Banner.png"></img>
 <br>
 <h2><strong>Introduction:</strong></h2>
 <h3><br></h3>
@@ -14,7 +14,7 @@ This is a ServiceNow application to create a Service Catalog gacha machine to ha
 - How can this be easy as an end user?<br><br>
 Typically in this day and age, people do not spend that long at a company as they did maybe 10-20 years ago. There have been studies showing how management, quality of life, and pay are some of the biggest factors for why people leave the companies they work for. Although I cannot sit here and shovel out millions of dollars to every working individual, I can at least aim to make a personal project tackle a more fun work environment. This is an application that can easily make a conversation point over teams in their stand ups. A collectible toy aspect creates a bit of fun in the work day while the daily token system can encourage people to keep within a company (at least a little) and gives a daily mind challenge on whether or not to spend or save. I generally aim for this to be extremely easy for an end user to use. Here is a flow chart as an end user:<br><br>
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLpNe17c=/?moveToViewport=-720,-225,2255,1080&embedId=155059377638" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<img src="/Gotcha Pawn/Flowchart.jpg"></img>
 
 <br><br><br>
 The video will be coming soon!
@@ -30,9 +30,9 @@ The video will be coming soon!
 <li>Scheduled Jobs</li>
 <li>Dynamic information based on the logged-in user.</li>
 <li>Portal Design & Widget Configuration</li>
-</li>UI Policies</li>
+<li>UI Policies</li>
 <li>Reports and Dashboards</li>
-</li>ACLs</li>
+<li>ACLs</li>
 </ul>
 <br><br><hr><br>
 
