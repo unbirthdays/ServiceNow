@@ -6,7 +6,7 @@
 <img src="/Gotcha Pawn/Gacha Pictures/Banner.png"></img>
 <br>
 <h2><strong>Introduction:</strong></h2>
-<h3><br></h3>
+<br>
 This is a ServiceNow application to create a Service Catalog gacha machine to have employees exchange tokens for virtual collectibles. I wanted to create something like this because of a relatively recent obsession with certain blind boxes and thought "how could I apply this to an application and what good can come from it? Some of the ideas and purposes include:<br>
 - What could the currency be or represent in order to be able to redeem a virtual toy?<br>
 - What would people use this for and why would they want to?<br>
@@ -17,11 +17,11 @@ Typically in this day and age, people do not spend that long at a company as the
 <img src="/Gotcha Pawn/Flowchart.jpg"></img>
 
 <br><br><br>
-The video will be coming soon!
-<!-- Watch the video of how this works and the inner machinations below:<br>
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=Zu1wVZ6OX3Y"></iframe><br> -->
+Watch the background information video <a href="https://www.youtube.com/watch?v=699ycJLBlIQ">here</a>.<br>
+Watch the demo video <a href="https://youtu.be/E6V07cnxEW0">here</a>.<br>
+Watch the coding explanation and system design video <a href="https://youtu.be/bbjqnfUZgCs">here</a>.<br>
 <br><br><hr>
-<h2><strong>ServiceNow tech stack and tools:</strong></h2>
+<h2><strong>ServiceNow Tech Stack and Tools:</strong></h2>
 <ul>
 <li>All the obvious stuff like tables, forms, configurations, users/roles/groups, etc.</li>
 <li>Service Catalog & Record Producers</li>
@@ -40,6 +40,7 @@ The video will be coming soon!
 <ul>
 <li>Adding the animal gacha pictures.</li>
 <li>Adding more gacha machines and toy series in general.</li>
+<li>Being able to redeem 10 tokens from the same machine.</li>
 <li>Duplicate gachas owned will instead increase a quantity integer instead of generating a new record.</li>
 <li>Users being able to trade in gachas (deletion of records) in exchange for tokens based on how rare the item is.</li>
 <li>Disabling the drilldown view in reports.</li>
